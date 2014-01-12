@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* Conditional CSS 1 */
+
+.sec-menu{
+				width: 100%;
+				background: #333;
+				height: 26px;
+				font-size:16px;
+				text-transform:uppercase;
+				}

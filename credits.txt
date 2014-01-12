@@ -1,0 +1,21 @@
+***************************************************************
+*************************   CREDITS   *************************
+***************************************************************
+
+                    Theme name: nano blogger
+                         Version: 2.1
+
+***************************************************************
+
+                   Developed by: Mayeenul Islam
+                      Twitter: @mayeenulislam
+                           nanodesigns
+                      www.nanodesignsbd.com
+
+***************************************************************
+
+Though the theme framework is done in nanodesigns' lab, we still remember every minute knowledge we gathered from peoples around the world. Inspired by Jo on (http://www.jocoxdesign.co.uk/), the theme was made on the base of Ian Stewart's (http://themeshaper.com/author/superuser/) framework of WordPress theme. We are thankful to Mr. Mustaque Md. Sami, Managing Director of innotech, for his tireless lesson to CMS. Can't forget the inspiration of Mr. AbduLLAH Hasan.
+
+The theme is dedicated to Mr. AbduLLAH Hasan.
+
+***************************************************************
